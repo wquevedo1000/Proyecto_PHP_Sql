@@ -1,0 +1,7 @@
+Para entrar a la interfaz de administrador use los siguientes datos:
+
+Correo: william06@gmail.com
+
+Clave: William1234
+
+Para entrar a la interfaz de cliente solo es que se registre en un formulario vinculado al inicio de sesión.
